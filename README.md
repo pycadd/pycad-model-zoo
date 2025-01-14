@@ -8,7 +8,7 @@ The PYCAD Model Zoo is an ongoing initiative to make pre-trained nnUNet models a
 
 ## Available Models
 
-| Model Name                | Number of Cases | Validation Dice | Model Weights | Kaggle Dataset | Additional Resources |
+| Model Name                | Number of Cases | Validation Dice | Model Weights | Dataset | Additional Resources |
 |---------------------------|-----------------|-----------------|----------------|-----------------|----------------------|
 | Vertebrae Segmentation    | 1089 CT Scans    | 0.88            | [![Model Weights](https://img.shields.io/badge/Model_Weights-Download-brightgreen)](https://github.com/pycadd/pycad-model-zoo/releases/download/v0.0.1/spine.zip) | [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/pycadmk/spine-segmentation-from-ct-scans) | [![YouTube Video](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/rZfngRIhEcQ?si=Z0V5ATb3E9tlq104) |
 | Skull Segmentation        | 349 CT Scans     | 0.96            | [![Model Weights](https://img.shields.io/badge/Model_Weights-Download-brightgreen)](https://github.com/pycadd/pycad-model-zoo/releases/download/v0.0.2/skull.zip) | [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/pycadmk/skull-segmentation-in-ct-scans) | None |
